@@ -5,4 +5,4 @@ I started this repository on 5/8/2024, and hopefully by the time you're reading 
 
 Skills in this portfolio:
 1. Problem-solving skills
-2. 
+2. TBL (to be learned)
